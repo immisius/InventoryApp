@@ -49,6 +49,7 @@
 		19D097022B0C9784001934D1 /* InventoryAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InventoryAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19D097062B0C9784001934D1 /* InventoryAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryAppUITests.swift; sourceTree = "<group>"; };
 		19D097082B0C9784001934D1 /* InventoryAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		19D097172B0CAF9B001934D1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -301,6 +302,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				19D096EC2B0C9782001934D1 /* Base */,
+				19D097172B0CAF9B001934D1 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -442,6 +444,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LSWLCVRRDW;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = InventoryApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -469,6 +472,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LSWLCVRRDW;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = InventoryApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
